@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "role playing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaya1983/jest-another-RPG.git"
+  },
+  "author": "Jaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaya1983/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/jaya1983/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
